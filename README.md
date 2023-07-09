@@ -3,6 +3,9 @@
 # WA_CRASHER
 WhatsApp Crash With one  Message
 
+![How to Crash Someone WhatsApp](https://github.com/mrjuice01/WA_CRASHER/assets/100421286/07bf1e00-32e4-4bb1-b48a-8e8877f6dc67)
+
+
 ###### Crash Whatsapp by  sending Only One Text.
 ***
 ### <p align="center">Commands to run tool in ur terminal
